@@ -1,0 +1,20 @@
+site_name: My Docs
+theme:
+  name: material
+
+plugins:
+  - tags:
+      tags_extra_files:
+        index.md:
+          - docs2
+        anotherTagsIndex.md:
+          - docs1
+
+extra:
+  tags:
+    docs1: docs1
+    docs2: docs2
+
+
+markdown_extensions:
+  - meta
