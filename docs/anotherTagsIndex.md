@@ -1,3 +1,0 @@
-[TAGS]
-
-Content, woohoo!
